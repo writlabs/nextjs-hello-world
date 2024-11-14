@@ -17,7 +17,7 @@
     "@types/node": "18.7.21",
     "@types/react": "18.0.33",
     "@types/react-dom": "18.0.6",
-    "eslint": "8.24.0",
+    "eslint": "9.14.0",
     "eslint-config-next": "15.0.3",
     "typescript": "5.6.3"
   }
