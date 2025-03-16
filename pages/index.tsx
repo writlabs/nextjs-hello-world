@@ -12,7 +12,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Hello Next.JS World</h1>
+        <h1 className={styles.title}>Hello Next.JS World is updated now</h1>
 
         <div className={styles.grid}></div>
       </main>
